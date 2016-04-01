@@ -176,7 +176,7 @@ with open(sys.argv[1]) as twitter_file:
         graph.update(combinedTweet)
         degree = graph.calcDegree()
 
-        degree = degree+'\r'
+        degree = degree + '\n'
         out.write(degree)
 
         line = twitter_file.readline()
