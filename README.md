@@ -7,4 +7,4 @@ This project calculates the average degree of a vertex in a Twitter hashtag grap
 
 This solution requires no additional libraries, environments, or dependencies.
 
-Please contact me via email adasjtu@gmail.com.
+Please contact me via email adasjtu@gmail.com (personal) or yul030@ucsd.edu (Insight data engineer application).
